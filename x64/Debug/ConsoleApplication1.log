@@ -1,0 +1,21 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\User\OneDrive\Рабочий стол\Алгоритми\Алгоритми №2 Черги\Черги\ConsoleApplication1.cpp(11,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\xtree(1264,36): error C2100: недопустимое косвенное обращение
+C:\Users\User\OneDrive\Рабочий стол\Алгоритми\Алгоритми №2 Черги\Черги\ConsoleApplication1.cpp(18): message : выполняется компиляция ссылки на экземпляр шаблон функции "void std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::insert<int>(_Iter,_Iter)"
+          with
+          [
+              _Kty=int,
+              _Ty=int,
+              _Pr=std::less<int>,
+              _Alloc=std::allocator<std::pair<const int,int>>,
+              _Iter=int
+          ]
+C:\Users\User\OneDrive\Рабочий стол\Алгоритми\Алгоритми №2 Черги\Черги\ConsoleApplication1.cpp(18): message : выполняется компиляция ссылки на экземпляр шаблон функции "void std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::insert<int>(_Iter,_Iter)"
+          with
+          [
+              _Kty=int,
+              _Ty=int,
+              _Pr=std::less<int>,
+              _Alloc=std::allocator<std::pair<const int,int>>,
+              _Iter=int
+          ]
